@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Jahnavi Dade" />
+  <meta name="description" content="Typing Speed Test by Jahnavi – a pastel, mindful web app to test your typing speed with quotes and soft animations." />
+  <title>Typing Speed Test⌨️</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="toggle-container">
+    <label class="switch">
+      <input type="checkbox" id="modeToggle" />
+      <span class="slider"></span>
+    </label>
+    <span class="mode-label">Dark Mode</span>
+  </div>
+
+  <h1>Typing Speed Test</h1>
+
+  <div class="quote-box" id="quote">
+    You are not behind. Not broken. Not too late. Just unfolding, in your own quiet timing. 💖
+  </div>
+
+  <textarea id="input" placeholder="Start typing here..."></textarea>
+
+  <div class="progress-bar">
+    <div class="progress" id="progress"></div>
+  </div>
+
+  <div class="stats">
+    <span>WPM: <span id="wpm">0</span></span>
+    <span>Accuracy: <span id="accuracy">100%</span></span>
+    <span>Characters: <span id="chars">0</span></span>
+  </div>
+
+  <button class="reset-btn" id="resetBtn">Reset 🦋</button>
+  <button class="reset-btn" id="changeBtn">Change Quote 🌸</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
