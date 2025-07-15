@@ -176,3 +176,7 @@ input:checked + .slider {
 input:checked + .slider::before {
   transform: translateX(20px);
 }
+
+.credit-badge {
+    color: #ccc;
+  }
