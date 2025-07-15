@@ -39,8 +39,7 @@ The **Typing Speed Test** is a calming, modern web app that gently tracks how fa
 
 ## 🌐 Live Demo
 
-🔗 [Try it on Netlify](https://your-speed-test.netlify.app)
-
+🔗 [Try it on Netlify](https://pastelwpm.netlify.app/)
 ---
 
 > "You’re not late. Not behind. Just gently unfolding in your own time." 💖
