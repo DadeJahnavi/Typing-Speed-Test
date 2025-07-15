@@ -1,18 +1,11 @@
 const quotes = [
   "You are not behind. Not broken. Not too late. You are simply growing at your own rhythm, like a flower blooming at its perfect pace. There is no deadline on your healing, no rush to find all the answers. Take your time. You are allowed to unfold slowly.",
-  
   "Some days will feel like progress, and some days will feel like standing still — but both are part of the journey. You do not need to be constantly achieving to be worthy of kindness. Even your quietest effort matters. You’re doing better than you realize.",
-  
   "Let today be gentle. Let yourself breathe without guilt. Your peace doesn’t have to be earned. It belongs to you simply because you exist. There is nothing weak about needing rest. In fact, choosing rest is often the bravest thing you can do.",
-  
   "Even if no one else sees how hard you're trying, your effort still counts. Quiet persistence is powerful. The way you keep showing up — for yourself, for others, for your dreams — even when it’s hard, that is what makes you extraordinary.",
-  
   "You don’t have to explain your softness, your sensitivity, or your slowness. They are not flaws to hide, but gifts to honor. You were never meant to be like everyone else. Your presence, exactly as it is, brings something beautiful into this world.",
-  
   "Healing doesn’t always look like forward motion. Sometimes it’s about sitting still, letting the storm pass, and choosing not to give up on yourself. You are allowed to rest. You are allowed to begin again. You are allowed to take up space while you heal.",
-  
   "There is no gold star for burning out. You do not have to constantly prove your worth through productivity. You were always enough — not because of what you do, but simply because you are here. That’s all it takes to be worthy of care.",
-  
   "Your story isn’t over. It’s still unfolding in ways you can’t yet imagine. Even now, in moments of doubt or fatigue, your soul is quietly growing. You are becoming something beautiful — not despite your struggles, but because of how you move through them."
 ];
 
